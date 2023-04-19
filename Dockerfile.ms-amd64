@@ -1,10 +1,10 @@
-# Built with arch: amd64 flavor: lxde image: ubuntu:jammy
+# Built with arch: amd64 flavor: lxde image: ubuntu:focal
 #
 ################################################################################
 # base system
 ################################################################################
 
-FROM mcr.microsoft.com/devcontainers/base:jammy as system
+FROM mcr.microsoft.com/devcontainers/base:focal as system
 
 
 
